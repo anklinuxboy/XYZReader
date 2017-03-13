@@ -3,12 +3,30 @@
 
     <item
         is-multidex="false"
+        jar="/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/classes_a88b67002d62b148c5f7036e7f334cb3bfb20b32.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/ankitsharma/.android/build-cache/00b1b9d634823279c1b1956287923ddab9b13558/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
         <dex dex="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/classes_f3e7c58077e4f67c5988c8820fe67c5cf4fe898c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankitsharma/.android/build-cache/2b3fd252184a6fc9015e312f98555fbe64245364/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/classes_30e6e1a8f74ee710fc37fe59609f2ef9c78dd4a8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -27,6 +45,15 @@
         revision="25.0.2"
         sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
         <dex dex="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/classes_efb7873f7cbd9c9d1e6bf1c7dd002f0cc69e7630.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/classes_c9e4272279ac741eaee335812bae6ec886b43e56.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,69 +84,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/ankitsharma/.android/build-cache/3ece5267248f66a9a7abed79ba4d510a72ed5850/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
-        <dex dex="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/classes_b077e2d21e6513400dd5fb3efddbef544eb6c456.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/libs/volley.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
-        <dex dex="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/volley_6b53a979f5c031fc6948ec348cdf1bc86181b58f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankitsharma/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_d6fc7a4835eeb8628415844a1a997c961e39ef5f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/libs/volley.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
-        <dex dex="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/volley_6b53a979f5c031fc6948ec348cdf1bc86181b58f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
-        <dex dex="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/classes_a88b67002d62b148c5f7036e7f334cb3bfb20b32.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankitsharma/.android/build-cache/2b3fd252184a6fc9015e312f98555fbe64245364/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/classes_30e6e1a8f74ee710fc37fe59609f2ef9c78dd4a8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
-        <dex dex="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/classes_c9e4272279ac741eaee335812bae6ec886b43e56.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/ankitsharma/.android/build-cache/238bbbe8969d2cb82d153a696e2de1abe68b1206/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -135,6 +99,24 @@
         revision="25.0.0"
         sha1="7052283359001bb108753cb0583a887d3bf94c82">
         <dex dex="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_9694f21c002e41801e4e3e1278278d2100a71b52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankitsharma/.android/build-cache/facbd7e82051b0e24b48ad142f2fc828df03a9ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ebcb0bcf52fab7c586f39717f7cb8de91748b1b1">
+        <dex dex="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/classes_ab11e3297a166534d825d735ef0ffaccdfec12fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankitsharma/.android/build-cache/3ece5267248f66a9a7abed79ba4d510a72ed5850/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/classes_b077e2d21e6513400dd5fb3efddbef544eb6c456.jar" />
     </item>
     <item
         is-multidex="false"
@@ -156,12 +138,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/volley_6b53a979f5c031fc6948ec348cdf1bc86181b58f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankitsharma/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_d6fc7a4835eeb8628415844a1a997c961e39ef5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/ankitsharma/.android/build-cache/98b66d3c1062f27aab072a2fdd9bc867668cf7d7/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
         <dex dex="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/classes_7af112b8d7a1ec361bea2b3b9aeac5f4652cf593.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/volley_6b53a979f5c031fc6948ec348cdf1bc86181b58f.jar" />
     </item>
     <item
         is-multidex="false"

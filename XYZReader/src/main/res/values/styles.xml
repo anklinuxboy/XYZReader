@@ -18,11 +18,21 @@
 <resources>
 
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
-
+        <item name="android:statusBarColor">@color/toolbar_color</item>
     </style>
 
     <style name="Theme.Bacon.Detail">
         <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="Theme.AppCompat.ToolbarStyle">
+        <item name="android:background">@color/toolbar_color</item>
+    </style>
+    
+    <style name="ListTextViewStyle">
+        <item name="fontPath">fonts/Avenir-Next.ttc</item>
+        <item name="android:textColor">@color/list_text_color</item>
+        <item name="android:textSize">@dimen/list_text_size</item>
     </style>
 
 </resources>

@@ -31,6 +31,7 @@ ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main
 		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:9:22-76
 application
 ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:11:5-46:19
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /Users/ankitsharma/.android/build-cache/facbd7e82051b0e24b48ad142f2fc828df03a9ab/output/AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:design:25.2.0] /Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:transition:25.2.0] /Users/ankitsharma/.android/build-cache/ca30ea08604f5be97b041964fef79393abcd3e08/output/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v13:25.2.0] /Users/ankitsharma/.android/build-cache/4bc715c2ef96a6ad18700514dfda6d719b8cbab8/output/AndroidManifest.xml:25:5-20
@@ -111,6 +112,7 @@ ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main
 		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:42:19-53
 uses-sdk
 INJECTED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /Users/ankitsharma/.android/build-cache/facbd7e82051b0e24b48ad142f2fc828df03a9ab/output/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:25.2.0] /Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:transition:25.2.0] /Users/ankitsharma/.android/build-cache/ca30ea08604f5be97b041964fef79393abcd3e08/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v13:25.2.0] /Users/ankitsharma/.android/build-cache/4bc715c2ef96a6ad18700514dfda6d719b8cbab8/output/AndroidManifest.xml:21:5-23:55
