@@ -12,12 +12,12 @@
         "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/color/abc_search_url_text.xml"
-    },
-    {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
         "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/color/abc_search_url_text.xml"
     },
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/color/abc_tint_default.xml",

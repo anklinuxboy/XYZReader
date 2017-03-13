@@ -1,19 +1,11 @@
 [
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/8422f68e5f72e83387b3a83f48c4e1e05212c3ee/output/res/layout/notification_template_big_media.xml"
-    },
-    {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
         "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/8422f68e5f72e83387b3a83f48c4e1e05212c3ee/output/res/layout/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/activity_article_detail.xml",
@@ -40,10 +32,6 @@
         "source": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/layout/design_menu_item_action_area.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/8422f68e5f72e83387b3a83f48c4e1e05212c3ee/output/res/layout/notification_template_lines.xml"
-    },
-    {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
         "source": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/layout/design_layout_snackbar_include.xml"
     },
@@ -62,10 +50,6 @@
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/activity_article_list.xml",
         "source": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/res/layout/activity_article_list.xml"
-    },
-    {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/layout_tab_text.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/b7d6b51e3276284c185b308a1d5ffa3b042ebb38/output/res/layout/layout_tab_text.xml"
     },
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
@@ -90,10 +74,6 @@
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/fragment_article_detail.xml",
         "source": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/res/layout/fragment_article_detail.xml"
-    },
-    {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/layout_snackbar_include.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/b7d6b51e3276284c185b308a1d5ffa3b042ebb38/output/res/layout/layout_snackbar_include.xml"
     },
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
@@ -124,12 +104,12 @@
         "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/abc_list_menu_item_radio.xml"
-    },
-    {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
         "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
@@ -138,10 +118,6 @@
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/8422f68e5f72e83387b3a83f48c4e1e05212c3ee/output/res/layout/abc_simple_dropdown_hint.xml"
     },
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
@@ -154,14 +130,6 @@
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/layout_tab_icon.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/b7d6b51e3276284c185b308a1d5ffa3b042ebb38/output/res/layout/layout_tab_icon.xml"
-    },
-    {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/layout_snackbar.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/b7d6b51e3276284c185b308a1d5ffa3b042ebb38/output/res/layout/layout_snackbar.xml"
     },
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
@@ -188,20 +156,16 @@
         "source": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/layout/design_navigation_menu_item.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/8422f68e5f72e83387b3a83f48c4e1e05212c3ee/output/res/layout/notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/abc_search_view.xml"
+        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
         "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/abc_search_view.xml"
     },
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
@@ -216,24 +180,28 @@
         "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/abc_screen_content_include.xml"
-    },
-    {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
         "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
         "source": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
+        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
         "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/layout/design_layout_tab_icon.xml"
+        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/layout/design_layout_tab_text.xml"
     },
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
@@ -242,10 +210,6 @@
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/layout/design_layout_tab_text.xml"
     },
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
@@ -262,9 +226,5 @@
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
         "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/8422f68e5f72e83387b3a83f48c4e1e05212c3ee/output/res/layout/notification_media_action.xml"
     }
 ]
