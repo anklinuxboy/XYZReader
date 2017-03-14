@@ -188,12 +188,12 @@
         "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
         "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_36dp.png",
