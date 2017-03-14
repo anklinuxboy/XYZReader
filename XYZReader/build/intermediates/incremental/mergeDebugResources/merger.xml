@@ -1870,6 +1870,8 @@
         <item name="android:background">@color/toolbar_color</item>
     </style><style name="Theme.Bacon.Detail">
         <item name="android:statusBarColor">@android:color/transparent</item>
+    </style><style name="ListTextViewStyle.DetailView">
+        <item name="android:textSize">@dimen/detail_body_text_size</item>
     </style><style name="ListTextViewStyle">
         <item name="fontPath">fonts/Avenir-Next.ttc</item>
         <item name="android:textColor">@color/list_text_color</item>

@@ -24,12 +24,12 @@
         "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/notification_template_part_time.xml"
-    },
-    {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
         "source": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",

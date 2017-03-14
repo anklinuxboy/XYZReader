@@ -93,15 +93,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/ankitsharma/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/picasso-2.5.2_524a7b4dffd5597e57df81703d2b97ec6019d924.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"

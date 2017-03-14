@@ -35,4 +35,8 @@
         <item name="android:textSize">@dimen/list_text_size</item>
     </style>
 
+    <style name="ListTextViewStyle.DetailView">
+        <item name="android:textSize">@dimen/detail_body_text_size</item>
+    </style>
+
 </resources>
