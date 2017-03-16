@@ -2693,6 +2693,7 @@ containing a value of this type.
         public static final int notification_subtext_size=0x7f08009b;
         public static final int notification_top_pad=0x7f08009c;
         public static final int notification_top_pad_large_text=0x7f08009d;
+        public static final int vertical_margin=0x7f08009e;
     }
     public static final class drawable {
         public static final int abc_ab_share_pack_mtrl_alpha=0x7f020000;
@@ -2848,7 +2849,6 @@ containing a value of this type.
         public static final int article_subtitle=0x7f0e0093;
         public static final int article_title=0x7f0e008e;
         public static final int auto=0x7f0e0026;
-        public static final int background_view_protection=0x7f0e008b;
         public static final int beginning=0x7f0e0039;
         public static final int bottom=0x7f0e0027;
         public static final int buttonPanel=0x7f0e004c;
@@ -2872,8 +2872,11 @@ containing a value of this type.
         public static final int design_menu_item_action_area_stub=0x7f0e0085;
         public static final int design_menu_item_text=0x7f0e0084;
         public static final int design_navigation_view=0x7f0e0083;
+        public static final int detail_app_bar=0x7f0e0089;
+        public static final int detail_toolbar=0x7f0e008c;
+        public static final int detail_toolbar_container=0x7f0e008a;
+        public static final int detail_view=0x7f0e0088;
         public static final int disableHome=0x7f0e0013;
-        public static final int draw_insets_frame_layout=0x7f0e0088;
         public static final int edit_query=0x7f0e0067;
         public static final int end=0x7f0e002b;
         public static final int end_padder=0x7f0e00aa;
@@ -2917,8 +2920,7 @@ containing a value of this type.
         public static final int pager=0x7f0e0074;
         public static final int parallax=0x7f0e0031;
         public static final int parentPanel=0x7f0e004e;
-        public static final int photo=0x7f0e008c;
-        public static final int photo_container=0x7f0e008a;
+        public static final int photo=0x7f0e008b;
         public static final int pin=0x7f0e0032;
         public static final int progress_circular=0x7f0e0007;
         public static final int progress_horizontal=0x7f0e0008;
@@ -2934,7 +2936,6 @@ containing a value of this type.
         public static final int scrollIndicatorUp=0x7f0e0050;
         public static final int scrollView=0x7f0e0051;
         public static final int scrollable=0x7f0e0041;
-        public static final int scrollview=0x7f0e0089;
         public static final int search_badge=0x7f0e0069;
         public static final int search_bar=0x7f0e0068;
         public static final int search_button=0x7f0e006a;
@@ -3116,15 +3117,16 @@ containing a value of this type.
         public static final int appbar_scrolling_view_behavior=0x7f070025;
         public static final int bottom_sheet_behavior=0x7f070026;
         public static final int character_counter_pattern=0x7f070027;
-        public static final int password_toggle_content_description=0x7f070028;
-        public static final int path_password_eye=0x7f070029;
-        public static final int path_password_eye_mask_strike_through=0x7f07002a;
-        public static final int path_password_eye_mask_visible=0x7f07002b;
-        public static final int path_password_strike_through=0x7f07002c;
+        public static final int detail_image_desc=0x7f070028;
+        public static final int password_toggle_content_description=0x7f070029;
+        public static final int path_password_eye=0x7f07002a;
+        public static final int path_password_eye_mask_strike_through=0x7f07002b;
+        public static final int path_password_eye_mask_visible=0x7f07002c;
+        public static final int path_password_strike_through=0x7f07002d;
         public static final int search_menu_title=0x7f070013;
         public static final int status_bar_notification_info_overflow=0x7f070014;
-        public static final int up=0x7f07002d;
-        public static final int welcome_xyz_reader=0x7f07002e;
+        public static final int up=0x7f07002e;
+        public static final int welcome_xyz_reader=0x7f07002f;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f0900a2;
