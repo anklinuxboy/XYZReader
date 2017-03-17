@@ -9291,12 +9291,12 @@
                 "from": {
                     "file": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/res/values/styles.xml",
                     "position": {
-                        "startLine": 32,
+                        "startLine": 33,
                         "startColumn": 4,
-                        "startOffset": 1214,
-                        "endLine": 36,
+                        "startOffset": 1258,
+                        "endLine": 37,
                         "endColumn": 12,
-                        "endOffset": 1454
+                        "endOffset": 1498
                     }
                 }
             },
@@ -9312,12 +9312,12 @@
                 "from": {
                     "file": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/res/values/styles.xml",
                     "position": {
-                        "startLine": 38,
+                        "startLine": 39,
                         "startColumn": 4,
-                        "startOffset": 1460,
-                        "endLine": 40,
+                        "startOffset": 1504,
+                        "endLine": 41,
                         "endColumn": 12,
-                        "endOffset": 1590
+                        "endOffset": 1634
                     }
                 }
             },
@@ -11566,12 +11566,12 @@
                 "from": {
                     "file": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/res/values/styles.xml",
                     "position": {
-                        "startLine": 28,
+                        "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 1080,
-                        "endLine": 30,
+                        "startOffset": 1124,
+                        "endLine": 31,
                         "endColumn": 12,
-                        "endOffset": 1204
+                        "endOffset": 1248
                     }
                 }
             },
@@ -11580,9 +11580,9 @@
                     "startLine": 1985,
                     "startColumn": 4,
                     "startOffset": 142727,
-                    "endLine": 1988,
+                    "endLine": 1989,
                     "endColumn": 12,
-                    "endOffset": 142965
+                    "endOffset": 143009
                 },
                 "from": {
                     "file": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/res/values/styles.xml",
@@ -11590,41 +11590,41 @@
                         "startLine": 19,
                         "startColumn": 4,
                         "startOffset": 706,
-                        "endLine": 22,
+                        "endLine": 23,
                         "endColumn": 12,
-                        "endOffset": 944
+                        "endOffset": 988
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 1989,
+                    "startLine": 1990,
                     "startColumn": 4,
-                    "startOffset": 142970,
-                    "endLine": 1991,
+                    "startOffset": 143014,
+                    "endLine": 1992,
                     "endColumn": 12,
-                    "endOffset": 143094
+                    "endOffset": 143138
                 },
                 "from": {
                     "file": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/res/values/styles.xml",
                     "position": {
-                        "startLine": 24,
+                        "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 950,
-                        "endLine": 26,
+                        "startOffset": 994,
+                        "endLine": 27,
                         "endColumn": 12,
-                        "endOffset": 1074
+                        "endOffset": 1118
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 1992,
+                    "startLine": 1993,
                     "startColumn": 4,
-                    "startOffset": 143099,
-                    "endLine": 1994,
+                    "startOffset": 143143,
+                    "endLine": 1995,
                     "endColumn": 12,
-                    "endOffset": 143248
+                    "endOffset": 143292
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/values/values.xml",
@@ -11640,12 +11640,12 @@
             },
             {
                 "to": {
-                    "startLine": 1995,
+                    "startLine": 1996,
                     "startColumn": 4,
-                    "startOffset": 143253,
-                    "endLine": 1999,
+                    "startOffset": 143297,
+                    "endLine": 2000,
                     "endColumn": 12,
-                    "endOffset": 143606
+                    "endOffset": 143650
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/values/values.xml",
@@ -11661,12 +11661,12 @@
             },
             {
                 "to": {
-                    "startLine": 2000,
+                    "startLine": 2001,
                     "startColumn": 4,
-                    "startOffset": 143611,
-                    "endLine": 2002,
+                    "startOffset": 143655,
+                    "endLine": 2003,
                     "endColumn": 12,
-                    "endOffset": 143773
+                    "endOffset": 143817
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/values/values.xml",
@@ -11682,12 +11682,12 @@
             },
             {
                 "to": {
-                    "startLine": 2003,
+                    "startLine": 2004,
                     "startColumn": 4,
-                    "startOffset": 143778,
-                    "endLine": 2007,
+                    "startOffset": 143822,
+                    "endLine": 2008,
                     "endColumn": 12,
-                    "endOffset": 144143
+                    "endOffset": 144187
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/values/values.xml",
@@ -11703,12 +11703,12 @@
             },
             {
                 "to": {
-                    "startLine": 2008,
+                    "startLine": 2009,
                     "startColumn": 4,
-                    "startOffset": 144148,
-                    "endLine": 2011,
+                    "startOffset": 144192,
+                    "endLine": 2012,
                     "endColumn": 12,
-                    "endOffset": 144303
+                    "endOffset": 144347
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/values/values.xml",
@@ -11724,12 +11724,12 @@
             },
             {
                 "to": {
-                    "startLine": 2012,
+                    "startLine": 2013,
                     "startColumn": 4,
-                    "startOffset": 144308,
-                    "endLine": 2015,
+                    "startOffset": 144352,
+                    "endLine": 2016,
                     "endColumn": 12,
-                    "endOffset": 144457
+                    "endOffset": 144501
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/values/values.xml",
@@ -11745,11 +11745,11 @@
             },
             {
                 "to": {
-                    "startLine": 2016,
+                    "startLine": 2017,
                     "startColumn": 4,
-                    "startOffset": 144462,
+                    "startOffset": 144506,
                     "endColumn": 79,
-                    "endOffset": 144537
+                    "endOffset": 144581
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -11764,11 +11764,11 @@
             },
             {
                 "to": {
-                    "startLine": 2017,
+                    "startLine": 2018,
                     "startColumn": 4,
-                    "startOffset": 144542,
+                    "startOffset": 144586,
                     "endColumn": 99,
-                    "endOffset": 144637
+                    "endOffset": 144681
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -11783,11 +11783,11 @@
             },
             {
                 "to": {
-                    "startLine": 2018,
+                    "startLine": 2019,
                     "startColumn": 4,
-                    "startOffset": 144642,
+                    "startOffset": 144686,
                     "endColumn": 89,
-                    "endOffset": 144727
+                    "endOffset": 144771
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -11802,11 +11802,11 @@
             },
             {
                 "to": {
-                    "startLine": 2019,
+                    "startLine": 2020,
                     "startColumn": 4,
-                    "startOffset": 144732,
+                    "startOffset": 144776,
                     "endColumn": 109,
-                    "endOffset": 144837
+                    "endOffset": 144881
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -11821,11 +11821,11 @@
             },
             {
                 "to": {
-                    "startLine": 2020,
+                    "startLine": 2021,
                     "startColumn": 4,
-                    "startOffset": 144842,
+                    "startOffset": 144886,
                     "endColumn": 93,
-                    "endOffset": 144931
+                    "endOffset": 144975
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -11840,11 +11840,11 @@
             },
             {
                 "to": {
-                    "startLine": 2021,
+                    "startLine": 2022,
                     "startColumn": 4,
-                    "startOffset": 144936,
+                    "startOffset": 144980,
                     "endColumn": 105,
-                    "endOffset": 145037
+                    "endOffset": 145081
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -11859,11 +11859,11 @@
             },
             {
                 "to": {
-                    "startLine": 2022,
+                    "startLine": 2023,
                     "startColumn": 4,
-                    "startOffset": 145042,
+                    "startOffset": 145086,
                     "endColumn": 91,
-                    "endOffset": 145129
+                    "endOffset": 145173
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -11878,12 +11878,12 @@
             },
             {
                 "to": {
-                    "startLine": 2023,
+                    "startLine": 2024,
                     "startColumn": 4,
-                    "startOffset": 145134,
-                    "endLine": 2024,
+                    "startOffset": 145178,
+                    "endLine": 2025,
                     "endColumn": 12,
-                    "endOffset": 145229
+                    "endOffset": 145273
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -11899,12 +11899,12 @@
             },
             {
                 "to": {
-                    "startLine": 2025,
+                    "startLine": 2026,
                     "startColumn": 4,
-                    "startOffset": 145234,
-                    "endLine": 2026,
+                    "startOffset": 145278,
+                    "endLine": 2027,
                     "endColumn": 12,
-                    "endOffset": 145341
+                    "endOffset": 145385
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -11920,12 +11920,12 @@
             },
             {
                 "to": {
-                    "startLine": 2027,
+                    "startLine": 2028,
                     "startColumn": 4,
-                    "startOffset": 145346,
-                    "endLine": 2028,
+                    "startOffset": 145390,
+                    "endLine": 2029,
                     "endColumn": 12,
-                    "endOffset": 145455
+                    "endOffset": 145499
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -11941,12 +11941,12 @@
             },
             {
                 "to": {
-                    "startLine": 2029,
+                    "startLine": 2030,
                     "startColumn": 4,
-                    "startOffset": 145460,
-                    "endLine": 2030,
+                    "startOffset": 145504,
+                    "endLine": 2031,
                     "endColumn": 12,
-                    "endOffset": 145571
+                    "endOffset": 145615
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -11962,12 +11962,12 @@
             },
             {
                 "to": {
-                    "startLine": 2031,
+                    "startLine": 2032,
                     "startColumn": 4,
-                    "startOffset": 145576,
-                    "endLine": 2032,
+                    "startOffset": 145620,
+                    "endLine": 2033,
                     "endColumn": 12,
-                    "endOffset": 145687
+                    "endOffset": 145731
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -11983,11 +11983,11 @@
             },
             {
                 "to": {
-                    "startLine": 2033,
+                    "startLine": 2034,
                     "startColumn": 4,
-                    "startOffset": 145692,
+                    "startOffset": 145736,
                     "endColumn": 93,
-                    "endOffset": 145781
+                    "endOffset": 145825
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12002,11 +12002,11 @@
             },
             {
                 "to": {
-                    "startLine": 2034,
+                    "startLine": 2035,
                     "startColumn": 4,
-                    "startOffset": 145786,
+                    "startOffset": 145830,
                     "endColumn": 113,
-                    "endOffset": 145895
+                    "endOffset": 145939
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12021,11 +12021,11 @@
             },
             {
                 "to": {
-                    "startLine": 2035,
+                    "startLine": 2036,
                     "startColumn": 4,
-                    "startOffset": 145900,
+                    "startOffset": 145944,
                     "endColumn": 111,
-                    "endOffset": 146007
+                    "endOffset": 146051
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12040,12 +12040,12 @@
             },
             {
                 "to": {
-                    "startLine": 2036,
+                    "startLine": 2037,
                     "startColumn": 4,
-                    "startOffset": 146012,
-                    "endLine": 2037,
+                    "startOffset": 146056,
+                    "endLine": 2038,
                     "endColumn": 12,
-                    "endOffset": 146109
+                    "endOffset": 146153
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12061,12 +12061,12 @@
             },
             {
                 "to": {
-                    "startLine": 2038,
+                    "startLine": 2039,
                     "startColumn": 4,
-                    "startOffset": 146114,
-                    "endLine": 2039,
+                    "startOffset": 146158,
+                    "endLine": 2040,
                     "endColumn": 12,
-                    "endOffset": 146229
+                    "endOffset": 146273
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12082,12 +12082,12 @@
             },
             {
                 "to": {
-                    "startLine": 2040,
+                    "startLine": 2041,
                     "startColumn": 4,
-                    "startOffset": 146234,
-                    "endLine": 2041,
+                    "startOffset": 146278,
+                    "endLine": 2042,
                     "endColumn": 12,
-                    "endOffset": 146351
+                    "endOffset": 146395
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12103,11 +12103,11 @@
             },
             {
                 "to": {
-                    "startLine": 2042,
+                    "startLine": 2043,
                     "startColumn": 4,
-                    "startOffset": 146356,
+                    "startOffset": 146400,
                     "endColumn": 81,
-                    "endOffset": 146433
+                    "endOffset": 146477
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12122,11 +12122,11 @@
             },
             {
                 "to": {
-                    "startLine": 2043,
+                    "startLine": 2044,
                     "startColumn": 4,
-                    "startOffset": 146438,
+                    "startOffset": 146482,
                     "endColumn": 103,
-                    "endOffset": 146537
+                    "endOffset": 146581
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12141,11 +12141,11 @@
             },
             {
                 "to": {
-                    "startLine": 2044,
+                    "startLine": 2045,
                     "startColumn": 4,
-                    "startOffset": 146542,
+                    "startOffset": 146586,
                     "endColumn": 119,
-                    "endOffset": 146657
+                    "endOffset": 146701
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12160,11 +12160,11 @@
             },
             {
                 "to": {
-                    "startLine": 2045,
+                    "startLine": 2046,
                     "startColumn": 4,
-                    "startOffset": 146662,
+                    "startOffset": 146706,
                     "endColumn": 125,
-                    "endOffset": 146783
+                    "endOffset": 146827
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12179,11 +12179,11 @@
             },
             {
                 "to": {
-                    "startLine": 2046,
+                    "startLine": 2047,
                     "startColumn": 4,
-                    "startOffset": 146788,
+                    "startOffset": 146832,
                     "endColumn": 97,
-                    "endOffset": 146881
+                    "endOffset": 146925
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12198,11 +12198,11 @@
             },
             {
                 "to": {
-                    "startLine": 2047,
+                    "startLine": 2048,
                     "startColumn": 4,
-                    "startOffset": 146886,
+                    "startOffset": 146930,
                     "endColumn": 93,
-                    "endOffset": 146975
+                    "endOffset": 147019
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12217,11 +12217,11 @@
             },
             {
                 "to": {
-                    "startLine": 2048,
+                    "startLine": 2049,
                     "startColumn": 4,
-                    "startOffset": 146980,
+                    "startOffset": 147024,
                     "endColumn": 87,
-                    "endOffset": 147063
+                    "endOffset": 147107
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12236,11 +12236,11 @@
             },
             {
                 "to": {
-                    "startLine": 2049,
+                    "startLine": 2050,
                     "startColumn": 4,
-                    "startOffset": 147068,
+                    "startOffset": 147112,
                     "endColumn": 111,
-                    "endOffset": 147175
+                    "endOffset": 147219
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12255,11 +12255,11 @@
             },
             {
                 "to": {
-                    "startLine": 2050,
+                    "startLine": 2051,
                     "startColumn": 4,
-                    "startOffset": 147180,
+                    "startOffset": 147224,
                     "endColumn": 115,
-                    "endOffset": 147291
+                    "endOffset": 147335
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12274,11 +12274,11 @@
             },
             {
                 "to": {
-                    "startLine": 2051,
+                    "startLine": 2052,
                     "startColumn": 4,
-                    "startOffset": 147296,
+                    "startOffset": 147340,
                     "endColumn": 121,
-                    "endOffset": 147413
+                    "endOffset": 147457
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12293,11 +12293,11 @@
             },
             {
                 "to": {
-                    "startLine": 2052,
+                    "startLine": 2053,
                     "startColumn": 4,
-                    "startOffset": 147418,
+                    "startOffset": 147462,
                     "endColumn": 111,
-                    "endOffset": 147525
+                    "endOffset": 147569
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12312,12 +12312,12 @@
             },
             {
                 "to": {
-                    "startLine": 2053,
+                    "startLine": 2054,
                     "startColumn": 4,
-                    "startOffset": 147530,
-                    "endLine": 2055,
+                    "startOffset": 147574,
+                    "endLine": 2056,
                     "endColumn": 12,
-                    "endOffset": 147700
+                    "endOffset": 147744
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12333,11 +12333,11 @@
             },
             {
                 "to": {
-                    "startLine": 2056,
+                    "startLine": 2057,
                     "startColumn": 4,
-                    "startOffset": 147705,
+                    "startOffset": 147749,
                     "endColumn": 115,
-                    "endOffset": 147816
+                    "endOffset": 147860
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12352,11 +12352,11 @@
             },
             {
                 "to": {
-                    "startLine": 2057,
+                    "startLine": 2058,
                     "startColumn": 4,
-                    "startOffset": 147821,
+                    "startOffset": 147865,
                     "endColumn": 85,
-                    "endOffset": 147902
+                    "endOffset": 147946
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12371,11 +12371,11 @@
             },
             {
                 "to": {
-                    "startLine": 2058,
+                    "startLine": 2059,
                     "startColumn": 4,
-                    "startOffset": 147907,
+                    "startOffset": 147951,
                     "endColumn": 91,
-                    "endOffset": 147994
+                    "endOffset": 148038
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12390,12 +12390,12 @@
             },
             {
                 "to": {
-                    "startLine": 2059,
+                    "startLine": 2060,
                     "startColumn": 4,
-                    "startOffset": 147999,
-                    "endLine": 2060,
+                    "startOffset": 148043,
+                    "endLine": 2061,
                     "endColumn": 12,
-                    "endOffset": 148106
+                    "endOffset": 148150
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12411,12 +12411,12 @@
             },
             {
                 "to": {
-                    "startLine": 2061,
+                    "startLine": 2062,
                     "startColumn": 4,
-                    "startOffset": 148111,
-                    "endLine": 2062,
+                    "startOffset": 148155,
+                    "endLine": 2063,
                     "endColumn": 12,
-                    "endOffset": 148230
+                    "endOffset": 148274
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12432,11 +12432,11 @@
             },
             {
                 "to": {
-                    "startLine": 2063,
+                    "startLine": 2064,
                     "startColumn": 4,
-                    "startOffset": 148235,
+                    "startOffset": 148279,
                     "endColumn": 66,
-                    "endOffset": 148297
+                    "endOffset": 148341
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12451,12 +12451,12 @@
             },
             {
                 "to": {
-                    "startLine": 2064,
+                    "startLine": 2065,
                     "startColumn": 4,
-                    "startOffset": 148302,
-                    "endLine": 2065,
+                    "startOffset": 148346,
+                    "endLine": 2066,
                     "endColumn": 12,
-                    "endOffset": 148423
+                    "endOffset": 148467
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12472,11 +12472,11 @@
             },
             {
                 "to": {
-                    "startLine": 2066,
+                    "startLine": 2067,
                     "startColumn": 4,
-                    "startOffset": 148428,
+                    "startOffset": 148472,
                     "endColumn": 67,
-                    "endOffset": 148491
+                    "endOffset": 148535
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12491,12 +12491,12 @@
             },
             {
                 "to": {
-                    "startLine": 2067,
+                    "startLine": 2068,
                     "startColumn": 4,
-                    "startOffset": 148496,
-                    "endLine": 2068,
+                    "startOffset": 148540,
+                    "endLine": 2069,
                     "endColumn": 12,
-                    "endOffset": 148619
+                    "endOffset": 148663
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12512,12 +12512,12 @@
             },
             {
                 "to": {
-                    "startLine": 2069,
+                    "startLine": 2070,
                     "startColumn": 4,
-                    "startOffset": 148624,
-                    "endLine": 2070,
+                    "startOffset": 148668,
+                    "endLine": 2071,
                     "endColumn": 12,
-                    "endOffset": 148763
+                    "endOffset": 148807
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12533,12 +12533,12 @@
             },
             {
                 "to": {
-                    "startLine": 2071,
+                    "startLine": 2072,
                     "startColumn": 4,
-                    "startOffset": 148768,
-                    "endLine": 2072,
+                    "startOffset": 148812,
+                    "endLine": 2073,
                     "endColumn": 12,
-                    "endOffset": 148891
+                    "endOffset": 148935
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12554,11 +12554,11 @@
             },
             {
                 "to": {
-                    "startLine": 2073,
+                    "startLine": 2074,
                     "startColumn": 4,
-                    "startOffset": 148896,
+                    "startOffset": 148940,
                     "endColumn": 68,
-                    "endOffset": 148960
+                    "endOffset": 149004
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12573,11 +12573,11 @@
             },
             {
                 "to": {
-                    "startLine": 2074,
+                    "startLine": 2075,
                     "startColumn": 4,
-                    "startOffset": 148965,
+                    "startOffset": 149009,
                     "endColumn": 94,
-                    "endOffset": 149055
+                    "endOffset": 149099
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12592,11 +12592,11 @@
             },
             {
                 "to": {
-                    "startLine": 2075,
+                    "startLine": 2076,
                     "startColumn": 4,
-                    "startOffset": 149060,
+                    "startOffset": 149104,
                     "endColumn": 114,
-                    "endOffset": 149170
+                    "endOffset": 149214
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12611,11 +12611,11 @@
             },
             {
                 "to": {
-                    "startLine": 2076,
+                    "startLine": 2077,
                     "startColumn": 4,
-                    "startOffset": 149175,
+                    "startOffset": 149219,
                     "endColumn": 112,
-                    "endOffset": 149283
+                    "endOffset": 149327
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12630,11 +12630,11 @@
             },
             {
                 "to": {
-                    "startLine": 2077,
+                    "startLine": 2078,
                     "startColumn": 4,
-                    "startOffset": 149288,
+                    "startOffset": 149332,
                     "endColumn": 98,
-                    "endOffset": 149382
+                    "endOffset": 149426
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12649,11 +12649,11 @@
             },
             {
                 "to": {
-                    "startLine": 2078,
+                    "startLine": 2079,
                     "startColumn": 4,
-                    "startOffset": 149387,
+                    "startOffset": 149431,
                     "endColumn": 108,
-                    "endOffset": 149491
+                    "endOffset": 149535
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12668,11 +12668,11 @@
             },
             {
                 "to": {
-                    "startLine": 2079,
+                    "startLine": 2080,
                     "startColumn": 4,
-                    "startOffset": 149496,
+                    "startOffset": 149540,
                     "endColumn": 110,
-                    "endOffset": 149602
+                    "endOffset": 149646
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12687,11 +12687,11 @@
             },
             {
                 "to": {
-                    "startLine": 2080,
+                    "startLine": 2081,
                     "startColumn": 4,
-                    "startOffset": 149607,
+                    "startOffset": 149651,
                     "endColumn": 110,
-                    "endOffset": 149713
+                    "endOffset": 149757
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12706,11 +12706,11 @@
             },
             {
                 "to": {
-                    "startLine": 2081,
+                    "startLine": 2082,
                     "startColumn": 4,
-                    "startOffset": 149718,
+                    "startOffset": 149762,
                     "endColumn": 100,
-                    "endOffset": 149814
+                    "endOffset": 149858
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12725,11 +12725,11 @@
             },
             {
                 "to": {
-                    "startLine": 2082,
+                    "startLine": 2083,
                     "startColumn": 4,
-                    "startOffset": 149819,
+                    "startOffset": 149863,
                     "endColumn": 104,
-                    "endOffset": 149919
+                    "endOffset": 149963
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12744,11 +12744,11 @@
             },
             {
                 "to": {
-                    "startLine": 2083,
+                    "startLine": 2084,
                     "startColumn": 4,
-                    "startOffset": 149924,
+                    "startOffset": 149968,
                     "endColumn": 99,
-                    "endOffset": 150019
+                    "endOffset": 150063
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12763,12 +12763,12 @@
             },
             {
                 "to": {
-                    "startLine": 2084,
+                    "startLine": 2085,
                     "startColumn": 4,
-                    "startOffset": 150024,
-                    "endLine": 2085,
+                    "startOffset": 150068,
+                    "endLine": 2086,
                     "endColumn": 12,
-                    "endOffset": 150149
+                    "endOffset": 150193
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12784,11 +12784,11 @@
             },
             {
                 "to": {
-                    "startLine": 2086,
+                    "startLine": 2087,
                     "startColumn": 4,
-                    "startOffset": 150154,
+                    "startOffset": 150198,
                     "endColumn": 90,
-                    "endOffset": 150240
+                    "endOffset": 150284
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12803,11 +12803,11 @@
             },
             {
                 "to": {
-                    "startLine": 2087,
+                    "startLine": 2088,
                     "startColumn": 4,
-                    "startOffset": 150245,
+                    "startOffset": 150289,
                     "endColumn": 122,
-                    "endOffset": 150363
+                    "endOffset": 150407
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12822,11 +12822,11 @@
             },
             {
                 "to": {
-                    "startLine": 2088,
+                    "startLine": 2089,
                     "startColumn": 4,
-                    "startOffset": 150368,
+                    "startOffset": 150412,
                     "endColumn": 93,
-                    "endOffset": 150457
+                    "endOffset": 150501
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12841,12 +12841,12 @@
             },
             {
                 "to": {
-                    "startLine": 2089,
+                    "startLine": 2090,
                     "startColumn": 4,
-                    "startOffset": 150462,
-                    "endLine": 2090,
+                    "startOffset": 150506,
+                    "endLine": 2091,
                     "endColumn": 12,
-                    "endOffset": 150569
+                    "endOffset": 150613
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12862,11 +12862,11 @@
             },
             {
                 "to": {
-                    "startLine": 2091,
+                    "startLine": 2092,
                     "startColumn": 4,
-                    "startOffset": 150574,
+                    "startOffset": 150618,
                     "endColumn": 85,
-                    "endOffset": 150655
+                    "endOffset": 150699
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12881,11 +12881,11 @@
             },
             {
                 "to": {
-                    "startLine": 2092,
+                    "startLine": 2093,
                     "startColumn": 4,
-                    "startOffset": 150660,
+                    "startOffset": 150704,
                     "endColumn": 103,
-                    "endOffset": 150759
+                    "endOffset": 150803
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12900,11 +12900,11 @@
             },
             {
                 "to": {
-                    "startLine": 2093,
+                    "startLine": 2094,
                     "startColumn": 4,
-                    "startOffset": 150764,
+                    "startOffset": 150808,
                     "endColumn": 95,
-                    "endOffset": 150855
+                    "endOffset": 150899
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12919,11 +12919,11 @@
             },
             {
                 "to": {
-                    "startLine": 2094,
+                    "startLine": 2095,
                     "startColumn": 4,
-                    "startOffset": 150860,
+                    "startOffset": 150904,
                     "endColumn": 74,
-                    "endOffset": 150930
+                    "endOffset": 150974
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12938,11 +12938,11 @@
             },
             {
                 "to": {
-                    "startLine": 2095,
+                    "startLine": 2096,
                     "startColumn": 4,
-                    "startOffset": 150935,
+                    "startOffset": 150979,
                     "endColumn": 69,
-                    "endOffset": 151000
+                    "endOffset": 151044
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12957,11 +12957,11 @@
             },
             {
                 "to": {
-                    "startLine": 2096,
+                    "startLine": 2097,
                     "startColumn": 4,
-                    "startOffset": 151005,
+                    "startOffset": 151049,
                     "endColumn": 87,
-                    "endOffset": 151088
+                    "endOffset": 151132
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12976,12 +12976,12 @@
             },
             {
                 "to": {
-                    "startLine": 2097,
+                    "startLine": 2098,
                     "startColumn": 4,
-                    "startOffset": 151093,
-                    "endLine": 2098,
+                    "startOffset": 151137,
+                    "endLine": 2099,
                     "endColumn": 12,
-                    "endOffset": 151206
+                    "endOffset": 151250
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -12997,12 +12997,12 @@
             },
             {
                 "to": {
-                    "startLine": 2099,
+                    "startLine": 2100,
                     "startColumn": 4,
-                    "startOffset": 151211,
-                    "endLine": 2100,
+                    "startOffset": 151255,
+                    "endLine": 2101,
                     "endColumn": 12,
-                    "endOffset": 151310
+                    "endOffset": 151354
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -13018,12 +13018,12 @@
             },
             {
                 "to": {
-                    "startLine": 2101,
+                    "startLine": 2102,
                     "startColumn": 4,
-                    "startOffset": 151315,
-                    "endLine": 2102,
+                    "startOffset": 151359,
+                    "endLine": 2103,
                     "endColumn": 12,
-                    "endOffset": 151414
+                    "endOffset": 151458
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -13039,12 +13039,12 @@
             },
             {
                 "to": {
-                    "startLine": 2103,
+                    "startLine": 2104,
                     "startColumn": 4,
-                    "startOffset": 151419,
-                    "endLine": 2104,
+                    "startOffset": 151463,
+                    "endLine": 2105,
                     "endColumn": 12,
-                    "endOffset": 151540
+                    "endOffset": 151584
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -13060,11 +13060,11 @@
             },
             {
                 "to": {
-                    "startLine": 2105,
+                    "startLine": 2106,
                     "startColumn": 4,
-                    "startOffset": 151545,
+                    "startOffset": 151589,
                     "endColumn": 87,
-                    "endOffset": 151628
+                    "endOffset": 151672
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -13079,11 +13079,11 @@
             },
             {
                 "to": {
-                    "startLine": 2106,
+                    "startLine": 2107,
                     "startColumn": 4,
-                    "startOffset": 151633,
+                    "startOffset": 151677,
                     "endColumn": 107,
-                    "endOffset": 151736
+                    "endOffset": 151780
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -13098,11 +13098,11 @@
             },
             {
                 "to": {
-                    "startLine": 2107,
+                    "startLine": 2108,
                     "startColumn": 4,
-                    "startOffset": 151741,
+                    "startOffset": 151785,
                     "endColumn": 99,
-                    "endOffset": 151836
+                    "endOffset": 151880
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -13117,11 +13117,11 @@
             },
             {
                 "to": {
-                    "startLine": 2108,
+                    "startLine": 2109,
                     "startColumn": 4,
-                    "startOffset": 151841,
+                    "startOffset": 151885,
                     "endColumn": 89,
-                    "endOffset": 151926
+                    "endOffset": 151970
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -13136,11 +13136,11 @@
             },
             {
                 "to": {
-                    "startLine": 2109,
+                    "startLine": 2110,
                     "startColumn": 4,
-                    "startOffset": 151931,
+                    "startOffset": 151975,
                     "endColumn": 109,
-                    "endOffset": 152036
+                    "endOffset": 152080
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -13155,11 +13155,11 @@
             },
             {
                 "to": {
-                    "startLine": 2110,
+                    "startLine": 2111,
                     "startColumn": 4,
-                    "startOffset": 152041,
+                    "startOffset": 152085,
                     "endColumn": 83,
-                    "endOffset": 152120
+                    "endOffset": 152164
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -13174,11 +13174,11 @@
             },
             {
                 "to": {
-                    "startLine": 2111,
+                    "startLine": 2112,
                     "startColumn": 4,
-                    "startOffset": 152125,
+                    "startOffset": 152169,
                     "endColumn": 101,
-                    "endOffset": 152222
+                    "endOffset": 152266
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -13193,11 +13193,11 @@
             },
             {
                 "to": {
-                    "startLine": 2112,
+                    "startLine": 2113,
                     "startColumn": 4,
-                    "startOffset": 152227,
+                    "startOffset": 152271,
                     "endColumn": 83,
-                    "endOffset": 152306
+                    "endOffset": 152350
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -13212,11 +13212,11 @@
             },
             {
                 "to": {
-                    "startLine": 2113,
+                    "startLine": 2114,
                     "startColumn": 4,
-                    "startOffset": 152311,
+                    "startOffset": 152355,
                     "endColumn": 53,
-                    "endOffset": 152360
+                    "endOffset": 152404
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -13231,11 +13231,11 @@
             },
             {
                 "to": {
-                    "startLine": 2114,
+                    "startLine": 2115,
                     "startColumn": 4,
-                    "startOffset": 152365,
+                    "startOffset": 152409,
                     "endColumn": 63,
-                    "endOffset": 152424
+                    "endOffset": 152468
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -13250,11 +13250,11 @@
             },
             {
                 "to": {
-                    "startLine": 2115,
+                    "startLine": 2116,
                     "startColumn": 4,
-                    "startOffset": 152429,
+                    "startOffset": 152473,
                     "endColumn": 105,
-                    "endOffset": 152530
+                    "endOffset": 152574
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -13269,11 +13269,11 @@
             },
             {
                 "to": {
-                    "startLine": 2116,
+                    "startLine": 2117,
                     "startColumn": 4,
-                    "startOffset": 152535,
+                    "startOffset": 152579,
                     "endColumn": 109,
-                    "endOffset": 152640
+                    "endOffset": 152684
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -13288,11 +13288,11 @@
             },
             {
                 "to": {
-                    "startLine": 2117,
+                    "startLine": 2118,
                     "startColumn": 4,
-                    "startOffset": 152645,
+                    "startOffset": 152689,
                     "endColumn": 83,
-                    "endOffset": 152724
+                    "endOffset": 152768
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -13307,11 +13307,11 @@
             },
             {
                 "to": {
-                    "startLine": 2118,
+                    "startLine": 2119,
                     "startColumn": 4,
-                    "startOffset": 152729,
+                    "startOffset": 152773,
                     "endColumn": 119,
-                    "endOffset": 152844
+                    "endOffset": 152888
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/values/values.xml",
@@ -13326,12 +13326,12 @@
             },
             {
                 "to": {
-                    "startLine": 2119,
+                    "startLine": 2120,
                     "startColumn": 4,
-                    "startOffset": 152849,
-                    "endLine": 2120,
+                    "startOffset": 152893,
+                    "endLine": 2121,
                     "endColumn": 12,
-                    "endOffset": 152944
+                    "endOffset": 152988
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/values/values.xml",
@@ -13347,12 +13347,12 @@
             },
             {
                 "to": {
-                    "startLine": 2121,
+                    "startLine": 2122,
                     "startColumn": 4,
-                    "startOffset": 152949,
-                    "endLine": 2124,
+                    "startOffset": 152993,
+                    "endLine": 2125,
                     "endColumn": 12,
-                    "endOffset": 153185
+                    "endOffset": 153229
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/values/values.xml",
@@ -13368,12 +13368,12 @@
             },
             {
                 "to": {
-                    "startLine": 2125,
+                    "startLine": 2126,
                     "startColumn": 4,
-                    "startOffset": 153190,
-                    "endLine": 2131,
+                    "startOffset": 153234,
+                    "endLine": 2132,
                     "endColumn": 12,
-                    "endOffset": 153620
+                    "endOffset": 153664
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/values/values.xml",
@@ -13389,12 +13389,12 @@
             },
             {
                 "to": {
-                    "startLine": 2132,
+                    "startLine": 2133,
                     "startColumn": 4,
-                    "startOffset": 153625,
-                    "endLine": 2135,
+                    "startOffset": 153669,
+                    "endLine": 2136,
                     "endColumn": 12,
-                    "endOffset": 153827
+                    "endOffset": 153871
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/values/values.xml",
@@ -13410,12 +13410,12 @@
             },
             {
                 "to": {
-                    "startLine": 2136,
+                    "startLine": 2137,
                     "startColumn": 4,
-                    "startOffset": 153832,
-                    "endLine": 2138,
+                    "startOffset": 153876,
+                    "endLine": 2139,
                     "endColumn": 12,
-                    "endOffset": 153986
+                    "endOffset": 154030
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/values/values.xml",
@@ -13431,12 +13431,12 @@
             },
             {
                 "to": {
-                    "startLine": 2139,
+                    "startLine": 2140,
                     "startColumn": 4,
-                    "startOffset": 153991,
-                    "endLine": 2147,
+                    "startOffset": 154035,
+                    "endLine": 2148,
                     "endColumn": 12,
-                    "endOffset": 154551
+                    "endOffset": 154595
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/values/values.xml",
@@ -13452,12 +13452,12 @@
             },
             {
                 "to": {
-                    "startLine": 2148,
+                    "startLine": 2149,
                     "startColumn": 4,
-                    "startOffset": 154556,
-                    "endLine": 2153,
+                    "startOffset": 154600,
+                    "endLine": 2154,
                     "endColumn": 12,
-                    "endOffset": 154912
+                    "endOffset": 154956
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/values/values.xml",
@@ -13473,12 +13473,12 @@
             },
             {
                 "to": {
-                    "startLine": 2154,
+                    "startLine": 2155,
                     "startColumn": 4,
-                    "startOffset": 154917,
-                    "endLine": 2156,
+                    "startOffset": 154961,
+                    "endLine": 2157,
                     "endColumn": 12,
-                    "endOffset": 155041
+                    "endOffset": 155085
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/values/values.xml",
@@ -13494,12 +13494,12 @@
             },
             {
                 "to": {
-                    "startLine": 2157,
+                    "startLine": 2158,
                     "startColumn": 4,
-                    "startOffset": 155046,
-                    "endLine": 2165,
+                    "startOffset": 155090,
+                    "endLine": 2166,
                     "endColumn": 12,
-                    "endOffset": 155708
+                    "endOffset": 155752
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/values/values.xml",
@@ -13515,12 +13515,12 @@
             },
             {
                 "to": {
-                    "startLine": 2166,
+                    "startLine": 2167,
                     "startColumn": 4,
-                    "startOffset": 155713,
-                    "endLine": 2169,
+                    "startOffset": 155757,
+                    "endLine": 2170,
                     "endColumn": 12,
-                    "endOffset": 155888
+                    "endOffset": 155932
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/values/values.xml",
@@ -13536,12 +13536,12 @@
             },
             {
                 "to": {
-                    "startLine": 2170,
+                    "startLine": 2171,
                     "startColumn": 4,
-                    "startOffset": 155893,
-                    "endLine": 2178,
+                    "startOffset": 155937,
+                    "endLine": 2179,
                     "endColumn": 12,
-                    "endOffset": 156597
+                    "endOffset": 156641
                 },
                 "from": {
                     "file": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/values/values.xml",
