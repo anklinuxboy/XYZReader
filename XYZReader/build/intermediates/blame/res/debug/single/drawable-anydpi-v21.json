@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/ankit/.android/build-cache/59288a86f4e486c25a37a731760ad369d5527f5e/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/ankit/.android/build-cache/59288a86f4e486c25a37a731760ad369d5527f5e/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
     }
 ]

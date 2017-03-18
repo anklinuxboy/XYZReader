@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout-v21/notification_action.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/layout-v21/notification_template_custom_big.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/layout-v21/notification_action_tombstone.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/layout-v21/notification_action.xml"
     }
 ]

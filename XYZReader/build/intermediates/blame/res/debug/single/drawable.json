@@ -1,190 +1,190 @@
 [
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_edit_text_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/ankit/.android/build-cache/59288a86f4e486c25a37a731760ad369d5527f5e/output/res/drawable/navigation_empty_icon.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_btn_check_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/white_selectable_item_background_circle.xml",
+        "source": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/res/drawable/white_selectable_item_background_circle.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_ratingbar_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_ic_search_api_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_text_cursor_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/ankit/.android/build-cache/59288a86f4e486c25a37a731760ad369d5527f5e/output/res/drawable/design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/drawable/design_fab_background.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/notification_icon_background.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_ic_clear_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/notification_tile_bg.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/home/ankit/.android/build-cache/59288a86f4e486c25a37a731760ad369d5527f5e/output/res/drawable/design_password_eye.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/padded_divider.xml",
-        "source": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/res/drawable/padded_divider.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/drawable/design_snackbar_background.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_ic_menu_overflow_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/white_selectable_item_background_circle.xml",
-        "source": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/res/drawable/white_selectable_item_background_circle.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/notification_icon_background.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_ic_ab_back_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/photo_background_protection.xml",
-        "source": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/res/drawable/photo_background_protection.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/drawable/design_password_eye.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/photo_background_protection.xml",
+        "source": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/res/drawable/photo_background_protection.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_dialog_material_background.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/add_fab_background.xml",
+        "source": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/res/drawable/add_fab_background.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/drawable/design_bottom_navigation_item_background.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/ankit/.android/build-cache/59288a86f4e486c25a37a731760ad369d5527f5e/output/res/drawable/design_snackbar_background.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/add_fab_background.xml",
-        "source": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/res/drawable/add_fab_background.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_vector_test.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/notification_bg_low.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_dialog_material_background.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_vector_test.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_ic_voice_search_api_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/ankit/.android/build-cache/59288a86f4e486c25a37a731760ad369d5527f5e/output/res/drawable/design_fab_background.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/res/drawable/navigation_empty_icon.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/notification_tile_bg.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/padded_divider.xml",
+        "source": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/res/drawable/padded_divider.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_textfield_search_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/notification_bg.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/res/drawable/abc_btn_colored_material.xml"
+        "merged": "/home/ankit/AndroidStudioProjects/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/res/drawable/abc_ratingbar_material.xml"
     }
 ]

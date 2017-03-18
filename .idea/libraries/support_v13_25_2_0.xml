@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="support-v13-25.2.0">
     <CLASSES>
-      <root url="file://$USER_HOME$/.android/build-cache/4bc715c2ef96a6ad18700514dfda6d719b8cbab8/output/res" />
-      <root url="jar://$USER_HOME$/.android/build-cache/4bc715c2ef96a6ad18700514dfda6d719b8cbab8/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/e4081b27ee512f79649a57e6440832e5b73410ea/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/e4081b27ee512f79649a57e6440832e5b73410ea/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v13/25.2.0/support-v13-25.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/support-v13/25.2.0/support-v13-25.2.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -1,138 +1,138 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
 	package
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:2:5-36
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:2:5-36
 	android:versionName
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:4:5-30
-		INJECTED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml
-		INJECTED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:3:5-28
-		INJECTED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml
-		INJECTED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:6:5-67
+ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:6:22-64
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:7:5-81
+ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:7:22-78
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:7:22-78
 uses-permission#android.permission.BROADCAST_STICKY
-ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:8:5-75
+ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:8:5-75
 	android:name
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:8:22-72
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:8:22-72
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:9:5-79
+ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:9:22-76
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:9:22-76
 application
-ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:11:5-46:19
-MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /Users/ankitsharma/.android/build-cache/facbd7e82051b0e24b48ad142f2fc828df03a9ab/output/AndroidManifest.xml:11:5-20
-MERGED from [com.android.support:design:25.2.0] /Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:transition:25.2.0] /Users/ankitsharma/.android/build-cache/ca30ea08604f5be97b041964fef79393abcd3e08/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v13:25.2.0] /Users/ankitsharma/.android/build-cache/4bc715c2ef96a6ad18700514dfda6d719b8cbab8/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.2.0] /Users/ankitsharma/.android/build-cache/003e581d8225d019ddaf152a1778da62bad2f321/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.2.0] /Users/ankitsharma/.android/build-cache/00b1b9d634823279c1b1956287923ddab9b13558/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.2.0] /Users/ankitsharma/.android/build-cache/0296c408c03aaffbc0baa5fa494fd3e40a39916c/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/ankitsharma/.android/build-cache/238bbbe8969d2cb82d153a696e2de1abe68b1206/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/ankitsharma/.android/build-cache/28b0ade085b6f7c2c475ae281dcb859748742d8c/output/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:palette-v7:25.2.0] /Users/ankitsharma/.android/build-cache/ae4f85920f63757eeae6dd1587a84994b910689e/output/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:support-core-utils:25.2.0] /Users/ankitsharma/.android/build-cache/eff9fed57b3ca869e0396b356136c9eba5d865bd/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.2.0] /Users/ankitsharma/.android/build-cache/98b66d3c1062f27aab072a2fdd9bc867668cf7d7/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.2.0] /Users/ankitsharma/.android/build-cache/2b3fd252184a6fc9015e312f98555fbe64245364/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:cardview-v7:25.2.0] /Users/ankitsharma/.android/build-cache/6af5c14e6268acf255f6be5fb751e20ffbd81c6d/output/AndroidManifest.xml:22:5-20
+ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:11:5-46:19
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/ankit/.android/build-cache/53496a37d0a5e567e24e38d5944fae1708b89512/output/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.2.0] /home/ankit/.android/build-cache/59288a86f4e486c25a37a731760ad369d5527f5e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/ankit/.android/build-cache/eef64d0ef9c0fdff16ecfc6c287f0dd6b4ac52cb/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /home/ankit/.android/build-cache/e4081b27ee512f79649a57e6440832e5b73410ea/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/ankit/.android/build-cache/197dcf1d6f4a5b08d48a88d69248f7d30193f64d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/ankit/.android/build-cache/91272d06ff6cdbf8be130143dbf5e5a45a0cd4b1/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/ankit/.android/build-cache/09a7a81687fe5059eb90a0d3d02da40949b0ac4d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/ankit/.android/build-cache/a84c597ea9d307380710c8d8a83d3a061d957f2a/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/ankit/.android/build-cache/7c82d0faf6d9a446b30b62b029920c504ff53687/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] /home/ankit/.android/build-cache/2c28684dc03c23faf3cd367dffe9788e966ad501/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/ankit/.android/build-cache/aa20eef795efe75bd17a85d8f56a6f2aabea3ce3/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/ankit/.android/build-cache/72afaa1946995b474347c2e3e88a2b3c595d190c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/ankit/.android/build-cache/414cce1e5d5178726523ed9d7d79cb8dc04a389f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.2.0] /home/ankit/.android/build-cache/5432e3645b1c6f2cb82ca3a9455fb4d282d9ce80/output/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:14:9-41
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:14:9-41
 	android:allowBackup
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:12:9-35
 	android:icon
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:13:9-43
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:13:9-43
 	android:theme
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:15:9-43
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:15:9-43
 activity#com.example.xyzreader.ui.ArticleListActivity
-ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:17:9-24:20
+ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:17:9-24:20
 	android:label
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:19:13-45
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:19:13-45
 	android:name
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:18:13-51
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:18:13-51
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:20:13-23:29
+ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:20:13-23:29
 action#android.intent.action.MAIN
-ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:21:17-69
+ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:21:25-66
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:22:17-77
+ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:22:27-74
 activity#com.example.xyzreader.ui.ArticleDetailActivity
-ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:26:9-37:20
+ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:26:9-37:20
 	android:parentActivityName
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:28:13-65
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:28:13-65
 	android:name
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:27:13-53
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:27:13-53
 intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
-ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:29:13-33:29
+ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:29:13-33:29
 action#android.intent.action.VIEW
-ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:30:17-69
+ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:30:25-66
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:30:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:31:17-76
+ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:31:17-76
 	android:name
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:31:27-73
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:31:27-73
 data
-ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:32:17-100
+ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:32:17-100
 	android:mimeType
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:32:23-97
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:32:23-97
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:34:13-36:59
+ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:34:13-36:59
 	android:value
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:36:17-56
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:36:17-56
 	android:name
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:35:17-63
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:35:17-63
 service#com.example.xyzreader.data.UpdaterService
-ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:39:9-40:40
+ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:39:9-40:40
 	android:exported
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:40:13-37
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:40:13-37
 	android:name
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:39:18-53
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:39:18-53
 provider#com.example.xyzreader.data.ItemsProvider
-ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:42:9-44:40
+ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:42:9-44:40
 	android:authorities
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:43:13-56
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:43:13-56
 	android:exported
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:44:13-37
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:44:13-37
 	android:name
-		ADDED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:42:19-53
+		ADDED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml:42:19-53
 uses-sdk
-INJECTED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /Users/ankitsharma/.android/build-cache/facbd7e82051b0e24b48ad142f2fc828df03a9ab/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:25.2.0] /Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:transition:25.2.0] /Users/ankitsharma/.android/build-cache/ca30ea08604f5be97b041964fef79393abcd3e08/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v13:25.2.0] /Users/ankitsharma/.android/build-cache/4bc715c2ef96a6ad18700514dfda6d719b8cbab8/output/AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/ankitsharma/.android/build-cache/f6c6433c86fbc72de83c96b99575e13607f978be/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.2.0] /Users/ankitsharma/.android/build-cache/003e581d8225d019ddaf152a1778da62bad2f321/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.2.0] /Users/ankitsharma/.android/build-cache/00b1b9d634823279c1b1956287923ddab9b13558/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.2.0] /Users/ankitsharma/.android/build-cache/0296c408c03aaffbc0baa5fa494fd3e40a39916c/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/ankitsharma/.android/build-cache/238bbbe8969d2cb82d153a696e2de1abe68b1206/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/ankitsharma/.android/build-cache/28b0ade085b6f7c2c475ae281dcb859748742d8c/output/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:palette-v7:25.2.0] /Users/ankitsharma/.android/build-cache/ae4f85920f63757eeae6dd1587a84994b910689e/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-core-utils:25.2.0] /Users/ankitsharma/.android/build-cache/eff9fed57b3ca869e0396b356136c9eba5d865bd/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/ankitsharma/.android/build-cache/3ece5267248f66a9a7abed79ba4d510a72ed5850/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-core-ui:25.2.0] /Users/ankitsharma/.android/build-cache/98b66d3c1062f27aab072a2fdd9bc867668cf7d7/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.2.0] /Users/ankitsharma/.android/build-cache/2b3fd252184a6fc9015e312f98555fbe64245364/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:cardview-v7:25.2.0] /Users/ankitsharma/.android/build-cache/6af5c14e6268acf255f6be5fb751e20ffbd81c6d/output/AndroidManifest.xml:20:5-43
+INJECTED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/ankit/.android/build-cache/53496a37d0a5e567e24e38d5944fae1708b89512/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.2.0] /home/ankit/.android/build-cache/59288a86f4e486c25a37a731760ad369d5527f5e/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.2.0] /home/ankit/.android/build-cache/eef64d0ef9c0fdff16ecfc6c287f0dd6b4ac52cb/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:25.2.0] /home/ankit/.android/build-cache/e4081b27ee512f79649a57e6440832e5b73410ea/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/ankit/.android/build-cache/1715faa040596233a76524b5deb27e80ae9fcdf5/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.2.0] /home/ankit/.android/build-cache/197dcf1d6f4a5b08d48a88d69248f7d30193f64d/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/ankit/.android/build-cache/91272d06ff6cdbf8be130143dbf5e5a45a0cd4b1/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/ankit/.android/build-cache/09a7a81687fe5059eb90a0d3d02da40949b0ac4d/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/ankit/.android/build-cache/a84c597ea9d307380710c8d8a83d3a061d957f2a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/ankit/.android/build-cache/7c82d0faf6d9a446b30b62b029920c504ff53687/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] /home/ankit/.android/build-cache/2c28684dc03c23faf3cd367dffe9788e966ad501/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/ankit/.android/build-cache/aa20eef795efe75bd17a85d8f56a6f2aabea3ce3/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/ankit/.android/build-cache/e0b309bef24762ac517cfd720379fe60baa48ed3/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/ankit/.android/build-cache/72afaa1946995b474347c2e3e88a2b3c595d190c/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /home/ankit/.android/build-cache/414cce1e5d5178726523ed9d7d79cb8dc04a389f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.2.0] /home/ankit/.android/build-cache/5432e3645b1c6f2cb82ca3a9455fb4d282d9ce80/output/AndroidManifest.xml:20:5-43
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.2.0] /Users/ankitsharma/.android/build-cache/b23017c55e9f9bddbba67a1c4564eac2fc853f5b/output/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.2.0] /home/ankit/.android/build-cache/59288a86f4e486c25a37a731760ad369d5527f5e/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml
-		INJECTED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml
-		INJECTED from /Users/ankitsharma/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/ankit/AndroidStudioProjects/XYZReader/XYZReader/src/main/AndroidManifest.xml
